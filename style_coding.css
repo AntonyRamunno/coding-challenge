@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+}
+
+body{
+    background-image: url(immagini/background.jpg);
+    background-size: cover;
+}
+
+.logo{
+    width: 400px;
+}
+
+#sottologo{
+    color: rgb(27, 205, 27);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.blocconero{
+    background-color: rgba(0, 0, 0, 0.5);
+    text-align: center;
+    padding-top: 100px;
+    margin: 50px 470px 300px;
+    height: 1000px;
+    border-radius: 20px;
+}
+
+.bloccoverde{
+    background-color: rgb(27, 205, 27);
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 10px 100px 30px;
+    border-radius: 3px;  
+}
+
+#tasti{
+    border-color: black;
+    border-radius: 3px;
+}
+
+input{
+    border-color: black;
+}
+ 
+h2{
+    display: inline-block;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.lista{
+   text-align: left;
+   margin: 20px 100px 20px;
+}
+
+h3{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.caricaarancio{
+    background-color: rgba(255, 213, 0, 0.8);
+    padding: 10px;
+    text-align: center;
+    margin: 10px 400px 10px 0px;
+    border-radius: 5px;
+}
+
+.caricaverde{
+    background-color: rgba(7, 255, 7, 0.8);
+    padding: 10px;
+    text-align: center;
+    margin: 10px 100px 10px 0px;
+    border-radius: 5px;
+}
+
+.caricarossa{
+    background-color: rgba(252, 66, 9, 0.8);
+    padding: 10px;
+    text-align: center;
+    margin: 10px 700px 10px 0px;
+    border-radius: 5px;
+}
+
+.statocarica{
+    color: black;
+}
+
+footer{
+    color: white;
+    font-size: x-large;
+}
